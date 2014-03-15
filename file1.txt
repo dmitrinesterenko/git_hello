@@ -1,0 +1,7 @@
+def method1
+  print 'hey'
+end
+
+def method2
+  method1
+end
